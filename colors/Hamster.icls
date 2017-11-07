@@ -1,0 +1,17 @@
+<scheme name="Hamster" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="modified">2016-12-21T18:03:06</property>
+    <property name="rainbow Default language">true</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code Medium" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Monaco" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
+  <option name="CONSOLE_FONT_SIZE" value="14" />
+</scheme>

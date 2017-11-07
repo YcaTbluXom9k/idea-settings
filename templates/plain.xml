@@ -1,0 +1,8 @@
+<templateSet group="plain">
+  <template name="psfl" value="private static final Logger LOG = LogManager.getLogger($CLASS_NAME$.class);" description="private static final Logger" toReformat="false" toShortenFQNames="true">
+    <variable name="CLASS_NAME" expression="className()" defaultValue="" alwaysStopAt="false" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
