@@ -5,20 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Configuration.java" />
     <recentFileMasks>
-      <mask>*.po</mask>
-      <mask>*.pom</mask>
-      <mask>*.pomx</mask>
-      <mask>*.pomxm</mask>
-      <mask>*.pomxml</mask>
-      <mask>*.pom.xml</mask>
-      <mask>.pom.xml</mask>
-      <mask>.</mask>
-      <mask>.ja</mask>
-      <mask>.jav</mask>
-      <mask>.java</mask>
-      <mask>*.x</mask>
-      <mask>*.xm</mask>
       <mask>*.xml</mask>
       <mask>j</mask>
       <mask>ja</mask>
@@ -36,6 +24,19 @@
       <mask>*.ja</mask>
       <mask>*.jav</mask>
       <mask>*.java</mask>
+      <mask>*C.java</mask>
+      <mask>*Co.java</mask>
+      <mask>*Con.java</mask>
+      <mask>*Conf.java</mask>
+      <mask>*Confi.java</mask>
+      <mask>*Config.java</mask>
+      <mask>*Configu.java</mask>
+      <mask>*Configur.java</mask>
+      <mask>*Configura.java</mask>
+      <mask>*Configurat.java</mask>
+      <mask>*Configurati.java</mask>
+      <mask>*Configuratio.java</mask>
+      <mask>*Configuration.java</mask>
     </recentFileMasks>
   </component>
 </application>
