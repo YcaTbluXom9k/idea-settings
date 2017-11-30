@@ -3,19 +3,18 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
       <mask>*.xml</mask>
       <mask>j</mask>
       <mask>ja</mask>
       <mask>pom.</mask>
       <mask>pom.x</mask>
-      <mask>pom.xm</mask>
       <mask>*,</mask>
       <mask>*.j</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
-      <mask>pom.xml</mask>
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.ja</mask>
@@ -34,6 +33,8 @@
       <mask>*Configurati.java</mask>
       <mask>*Configuratio.java</mask>
       <mask>*Configuration.java</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
